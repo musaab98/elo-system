@@ -1,2 +1,2 @@
 # elo-system
-text based java program which ranks players using elo formula
+Created by Musaab Elsheikh, Nov 2017.
