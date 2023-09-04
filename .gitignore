@@ -1,0 +1,9 @@
+# .class files
+elo.class
+Bracket.class
+Player.class
+hello.class
+
+# other stuff
+Bracket$CancelPressed.class
+Bracket$SavePressed.class
